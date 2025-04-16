@@ -35,6 +35,6 @@ It enables rapid creation of web attack payloads including XSS, CSRF, HTML Injec
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/yourhandle/xserum.git
+git clone https://github.com/gh0st359/xserum.git
 cd xserum
 python3 xserum.py
