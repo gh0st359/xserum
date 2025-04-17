@@ -3,6 +3,9 @@
 **XSerum** is a powerful, GUI-based payload generation toolkit for ethical hackers, red teamers, and security researchers.  
 It enables rapid creation of web attack payloads including XSS, CSRF, HTML Injection, DOM-based exploits, and more — with advanced obfuscation layers and output options.
 
+<img width="1440" alt="Screenshot 2025-04-16 at 11 35 57 PM" src="https://github.com/user-attachments/assets/a9e1a840-77f5-4a1c-a012-4ffc170b6cde" />
+
+
 ---
 
 ## 🔥 Features
